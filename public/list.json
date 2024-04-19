@@ -1,0 +1,99 @@
+[
+    {
+        "id" :1,
+        "name" : "Story",
+        "title" : "On the Other Side",
+        "price" : 0,
+        "category" :"Free",
+        "image" :  "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713292555~exp=1713296155~hmac=9eab985b271b7d3010f325d1d332e97133a4211ab7e2b85a11bc2b5e29f6ae80&w=740"
+    },
+    {
+        "id" :2,
+        "name" : "Romance",
+        "title" : "Healing Her Heart",
+        "price" : 470,
+        "category" :"Rent",
+        "image" :  "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713292555~exp=1713296155~hmac=9eab985b271b7d3010f325d1d332e97133a4211ab7e2b85a11bc2b5e29f6ae80&w=740"
+    },
+    {
+        "id" :3,
+        "name" : "Fantasy",
+        "title" : "The Arabian Nights",
+        "price" : 0,
+        "category" :"Free",
+        "image" :  "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713292555~exp=1713296155~hmac=9eab985b271b7d3010f325d1d332e97133a4211ab7e2b85a11bc2b5e29f6ae80&w=740"
+    },
+    {
+        "id" :4,
+        "name" : "Historical Fiction",
+        "title" : "Macbeth",
+        "price" : 750,
+        "category" :"Rent",
+        "image" :  "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713292555~exp=1713296155~hmac=9eab985b271b7d3010f325d1d332e97133a4211ab7e2b85a11bc2b5e29f6ae80&w=740"
+    },
+    {
+        "id" :5,
+        "name" : "Horror",
+        "title" : "Dracula",
+        "price" : 0,
+        "category" :"Free",
+        "image" :  "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713292555~exp=1713296155~hmac=9eab985b271b7d3010f325d1d332e97133a4211ab7e2b85a11bc2b5e29f6ae80&w=740"
+    },
+    {
+        "id" :6,
+        "name" : "Science Fiction",
+        "title" : "The Time Machine",
+        "price" : 0,
+        "category" :"Free",
+        "image" :  "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713292555~exp=1713296155~hmac=9eab985b271b7d3010f325d1d332e97133a4211ab7e2b85a11bc2b5e29f6ae80&w=740"
+    },
+    {
+        "id" :7,
+        "name" : "Non Fiction",
+        "title" : "The Age of Reason",
+        "price" : 400,
+        "category" :"Rent",
+        "image" :  "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713292555~exp=1713296155~hmac=9eab985b271b7d3010f325d1d332e97133a4211ab7e2b85a11bc2b5e29f6ae80&w=740"
+    },
+    {
+        "id" :8,
+        "name" : "Literary Fiction",
+        "title" : "Emma",
+        "price" : 850,
+        "category" :"Rent",
+        "image" :  "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713292555~exp=1713296155~hmac=9eab985b271b7d3010f325d1d332e97133a4211ab7e2b85a11bc2b5e29f6ae80&w=740"
+    },
+    {
+        "id" :9,
+        "name" : "Historical Fiction",
+        "title" : "All For Love",
+        "price" : 0,
+        "category" :"Free",
+        "image" :  "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713292555~exp=1713296155~hmac=9eab985b271b7d3010f325d1d332e97133a4211ab7e2b85a11bc2b5e29f6ae80&w=740"
+    },
+    {
+        "id" :10,
+        "name" : "Young Adult",
+        "title" : "A Pair of Schoolgirls",
+        "price" : 200,
+        "category" :"Rent",
+        "image" :  "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713292555~exp=1713296155~hmac=9eab985b271b7d3010f325d1d332e97133a4211ab7e2b85a11bc2b5e29f6ae80&w=740"
+    },
+    {
+        "id" :11,
+        "name" : "Children's",
+        "title" : "Oliver Twist",
+        "price" : 0,
+        "category" :"Free",
+        "image" :  "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713292555~exp=1713296155~hmac=9eab985b271b7d3010f325d1d332e97133a4211ab7e2b85a11bc2b5e29f6ae80&w=740"
+    },
+    {
+        "id" :12,
+        "name" : "Biographies And History",
+        "title" : "The Art of War",
+        "price" : 450,
+        "category" :"Rent",
+        "image" :  "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713292555~exp=1713296155~hmac=9eab985b271b7d3010f325d1d332e97133a4211ab7e2b85a11bc2b5e29f6ae80&w=740"
+    }
+
+]
